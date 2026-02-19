@@ -1,0 +1,36 @@
+Facility_Name,District,Latitude,Longitude,Facility_Type
+Connaught Hospital,Western Area Urban,8°29'5"N,13°13'44"W,Hospital
+Princess Christian Maternity Hospital,Western Area Urban,8 28 30 N,13 14 15 W,Hospital
+Ola During Children's Hospital,Western Area Urban,8.484722,-13.228889,Hospital
+Lumley Government Hospital,Western Area Urban,8°27'45"N,13°16'30"W,Hospital
+Rokupa Government Hospital,Western Area Urban,8 29 10 N,13 11 25 W,Hospital
+Waterloo CHC,Western Area Rural,8.3389,-13.0714,CHC
+Newton CHC,Western Area Rural,8°21'30"N,13°4'17"W,CHC
+Grafton CHC,Western Area Rural,8 25 45 N,13 12 30 W,CHC
+Tombo CHC,Western Area Rural,8.2167,-13.1333,CHC
+Hastings CHC,Western Area Rural,8°22'15"N,13°8'45"W,CHC
+Bo Government Hospital,Bo,7°57'30"N,11°44'15"W,Hospital
+Kenema Government Hospital,Kenema,7.8761,-11.1903,Hospital
+Makeni Government Hospital,Bombali,8 53 20 N,12 2 45 W,Hospital
+Koidu Government Hospital,Kono,8°38'45"N,10°58'30"W,Hospital
+Port Loko Government Hospital,Port Loko,8.7631,-12.7872,Hospital
+Magburaka Government Hospital,Tonkolili,8°43'10"N,11°56'50"W,Hospital
+Moyamba Government Hospital,Moyamba,8 9 25 N,12 26 10 W,Hospital
+Pujehun Government Hospital,Pujehun,7.3581,-11.7206,Hospital
+Kailahun Government Hospital,Kailahun,8°16'40"N,10°34'20"W,Hospital
+Kabala Government Hospital,Koinadugu,9.5881,-11.5519,Hospital
+Kambia Government Hospital,Kambia,9 7 15 N,12 55 30 W,Hospital
+Bonthe Government Hospital,Bonthe,7°31'45"N,12°30'15"W,Hospital
+Masanga Hospital,Tonkolili,8.6722,-11.8083,Hospital
+Serabu Hospital,Bo,7 52 30 N,11 38 45 W,Hospital
+Holy Spirit Hospital,Makeni,8°53'5"N,12°2'30"W,Hospital
+Panguma Hospital,Kenema,8.1167,-11.0833,Hospital
+Nixon Memorial Hospital,Kailahun,8 17 20 N,10 33 50 W,Hospital
+Mattru Hospital,Bonthe,7°37'25"N,11°50'40"W,Hospital
+Kissy Health Centre,Western Area Urban,invalid_coord,13 12 30 W,CHC
+Murray Town CHC,Western Area Urban,8.4725,missing,CHC
+Wellington CHC,Western Area Urban,,13.2156,CHC
+Allen Town CHC,Western Area Urban,8.4589,,CHC
+Calaba Town CHC,Western Area Urban,text_value,not_a_number,CHC
+Mountain View CHC,Western Area Rural,999.999,-13.1234,CHC
+Test Facility,Test District,8°29'5.5"N,13°13'44.5"W,CHC
